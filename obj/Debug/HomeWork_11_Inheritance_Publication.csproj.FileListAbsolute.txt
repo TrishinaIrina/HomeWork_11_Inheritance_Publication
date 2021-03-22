@@ -1,0 +1,6 @@
+C:\Users\irish\My documents\C#\HomeWork_11_Inheritance_Publication\bin\Debug\HomeWork_11_Inheritance_Publication.exe.config
+C:\Users\irish\My documents\C#\HomeWork_11_Inheritance_Publication\bin\Debug\HomeWork_11_Inheritance_Publication.exe
+C:\Users\irish\My documents\C#\HomeWork_11_Inheritance_Publication\bin\Debug\HomeWork_11_Inheritance_Publication.pdb
+C:\Users\irish\My documents\C#\HomeWork_11_Inheritance_Publication\obj\Debug\HomeWork_11_Inheritance_Publication.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\HomeWork_11_Inheritance_Publication\obj\Debug\HomeWork_11_Inheritance_Publication.exe
+C:\Users\irish\My documents\C#\HomeWork_11_Inheritance_Publication\obj\Debug\HomeWork_11_Inheritance_Publication.pdb
